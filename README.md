@@ -8,6 +8,10 @@
 
 # [LIVE DEMO 👽](https://cyber-gamez-shjz.netlify.app/)
 
+## Screenshot:
+
+![ss](https://user-images.githubusercontent.com/52501040/192651417-2b5d7c4f-b1f4-4043-bd1b-7bebeef1e260.jpg)
+
 ## Licence
 `MIT LICENCE` Read `Licence` document for more details ->
 
