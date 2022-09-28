@@ -676,14 +676,6 @@ html::-webkit-scrollbar {
         justify-content: center;
     }
 
-    .up-page {
-        display: none;
-    }
-
-    .logo:hover,
-    .logo:focus {
-        transform: none;
-    }
 }
 
 /* For Medium Devices */
