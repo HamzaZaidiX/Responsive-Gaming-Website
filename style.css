@@ -55,6 +55,8 @@ header {
     background-color: var(--dark-color);
     z-index: 100;
     user-select: none;
+    margin-top: 10px;
+}
 }
 
 .nav {
